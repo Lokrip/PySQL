@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: PySql
+Version: 0.1
+Requires-Python: >=3.12.2
+License-File: LICENSE
+Requires-Dist: psycopg2

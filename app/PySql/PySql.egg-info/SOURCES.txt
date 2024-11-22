@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+PySql/PySql.egg-info/PKG-INFO
+PySql/PySql.egg-info/SOURCES.txt
+PySql/PySql.egg-info/dependency_links.txt
+PySql/PySql.egg-info/requires.txt
+PySql/PySql.egg-info/top_level.txt
+PySql/base/__init__.py
+PySql/base/connection.py
+PySql/base/query.py
+PySql/base/utils.py
+PySql/logs/__init__.py
+PySql/logs/errors.py
+PySql/logs/log.py
+PySql/settings/__init__.py
+PySql/settings/config.py
